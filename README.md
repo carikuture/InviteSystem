@@ -1,2 +1,2 @@
 # InviteSystem
-A collab C++ Invite System for a School Contest
+A collaboration C++ Invite System project for a School Contest
